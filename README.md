@@ -18,7 +18,8 @@ Teste:
 **Visual Studio Code**<br>
 Download: https://code.visualstudio.com/<br>
 
-    <h5>**Extensões:**<br>
+<h5>
+**Extensões:**<br>
 - **Auto Import:** Auxilia no importação de módulos externos;<br>
 - **Auto-Save on Window Change:** salva os arquivos ao mudar de janela;<br>
 - **Auto Rename Tag:** Permite renomear uma tag sem a necessidade de alterar o fechamento da tag;<br>
@@ -34,12 +35,14 @@ Download: https://code.visualstudio.com/<br>
 - **Prettier:** Organiza, formata e identa o código;<br>
 - **Rest Client** - Permite executar requisições HTTP direto do Visual Studio Code;<br>
 - **Settings Sync:** Permite guardar as configurações do Visual Studio Code para utilizar em qualquer máquina;<br>
-- **Visual Studio IntelliCode:** Recurso de autocompletar para várias linguagens.</h5><br>
+- **Visual Studio IntelliCode:** Recurso de autocompletar para várias linguagens.<br>
+</h5>
 
 <br>
 
 **Node.js LTS**<br>
-Ddownload: https://nodejs.org/en/<br>
+Ddownload: https://nodejs.org/en/
+<br>
 Teste: 
 
     npm --version
