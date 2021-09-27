@@ -47,7 +47,7 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 * Teste: 
 
-    npm --version
+        npm --version
     
 <br>
 
@@ -57,11 +57,11 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 * Instalação:
 
-    npm install -g @angular/cli
+        npm install -g @angular/cli
 
 * Teste: 
 
-    ng --version
+        ng --version
     
 <br>
 
@@ -71,7 +71,7 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 * Teste:
 
-    git --version
+        git --version
     
 <br>
 
