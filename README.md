@@ -12,28 +12,27 @@ Download: https://dotnet.microsoft.com/download<br>
 Teste:<br>
 
     dotnet --version
-    <br>
 
 **Visual Studio Code**<br>
 Download: https://code.visualstudio.com/<br>
     **Extensões:**
 
-    - **Auto Import:** Auxilia no importação de módulos externos;
-    - **Auto-Save on Window Change:** salva os arquivos ao mudar de janela;
-    - **Auto Rename Tag:** Permite renomear uma tag sem a necessidade de alterar o fechamento da tag;
-    - **Bracket Pair Colorize 2:** Cria marcações coloridas na abertura e fechamento de tags, métodos e etc;
-    - **C#**: Extensão que auxiliará no desenvolvimento de projetos em C#;
-    - **Color Highlight:** Identifica e colore trechos de código onde cores são identificadas;
-    - **Dracula Official:** Modifica o tema do ambiente de trabalho;
-    - **EditorConfig for VS Code:** Auxilia na construção do arquivo .editorconfig;
-    - **HTML CSS Support:** Dá suporte para a escrita de código HTML e CSS;
-    - **Live Server:** Permite executar e alterar trechos de código sem a necessidade de recarregar o navegador;
-    - **Material Icon Theme:** Altera os ícones de pastas e arquivos;
-    - **Path Intelisense:** Ajuda encontrar caminhos, arquivos e pastas dentro da workspace;
-    - **Prettier:** Organiza, formata e identa o código;
-    - **Rest Client** - Permite executar requisições HTTP direto do Visual Studio Code;
-    - **Settings Sync:** Permite guardar as configurações do Visual Studio Code para utilizar em qualquer máquina;
-    - **Visual Studio IntelliCode:** Recurso de autocompletar para várias linguagens.
+   - **Auto Import:** Auxilia no importação de módulos externos;
+   - **Auto-Save on Window Change:** salva os arquivos ao mudar de janela;
+   - **Auto Rename Tag:** Permite renomear uma tag sem a necessidade de alterar o fechamento da tag;
+   - **Bracket Pair Colorize 2:** Cria marcações coloridas na abertura e fechamento de tags, métodos e etc;
+   - **C#**: Extensão que auxiliará no desenvolvimento de projetos em C#;
+   - **Color Highlight:** Identifica e colore trechos de código onde cores são identificadas;
+   - **Dracula Official:** Modifica o tema do ambiente de trabalho;
+   - **EditorConfig for VS Code:** Auxilia na construção do arquivo .editorconfig;
+   - **HTML CSS Support:** Dá suporte para a escrita de código HTML e CSS;
+   - **Live Server:** Permite executar e alterar trechos de código sem a necessidade de recarregar o navegador;
+   - **Material Icon Theme:** Altera os ícones de pastas e arquivos;
+   - **Path Intelisense:** Ajuda encontrar caminhos, arquivos e pastas dentro da workspace;
+   - **Prettier:** Organiza, formata e identa o código;
+   - **Rest Client** - Permite executar requisições HTTP direto do Visual Studio Code;
+   - **Settings Sync:** Permite guardar as configurações do Visual Studio Code para utilizar em qualquer máquina;
+   - **Visual Studio IntelliCode:** Recurso de autocompletar para várias linguagens.
 
 **Node.js LTS**<br>
 Ddownload: https://nodejs.org/en/<br>
