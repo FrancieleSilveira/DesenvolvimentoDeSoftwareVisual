@@ -9,17 +9,17 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 <h3>SDK .NET 5.0</h3>
 
-* Download: https://dotnet.microsoft.com/download<br>
+* Download: https://dotnet.microsoft.com/download
 
 * Teste:
-
 
         dotnet --version
 
 <br>
 
-* **Visual Studio Code**<br>
-Download: https://code.visualstudio.com/<br><br>
+<h3>Visual Studio Code</h3>
+
+* Download: https://code.visualstudio.com/<br><br>
     **Extensões:**<br>
     - **Auto Import:** Auxilia no importação de módulos externos;<br>
     - **Auto-Save on Window Change:** salva os arquivos ao mudar de janela;<br>
@@ -41,8 +41,9 @@ Download: https://code.visualstudio.com/<br><br>
 
 <br>
 
-* **Node.js LTS**<br>
-Ddownload: https://nodejs.org/en/<br>
+<h3>Node.js LTS</h3>
+
+* Ddownload: https://nodejs.org/en/<br>
 
 Teste: 
 
