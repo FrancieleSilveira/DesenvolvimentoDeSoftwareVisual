@@ -90,6 +90,7 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
         code .
         
 <br>      
+
 * Para rodar o projeto:
 
         dotnet run
