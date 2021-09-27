@@ -13,9 +13,10 @@ Teste:<br>
 
     dotnet --version
 
+<br>
 **Visual Studio Code**<br>
 Download: https://code.visualstudio.com/<br>
-    **Extensões:**
+    <h6>**Extensões:**
 
    - **Auto Import:** Auxilia no importação de módulos externos;
    - **Auto-Save on Window Change:** salva os arquivos ao mudar de janela;
@@ -32,7 +33,7 @@ Download: https://code.visualstudio.com/<br>
    - **Prettier:** Organiza, formata e identa o código;
    - **Rest Client** - Permite executar requisições HTTP direto do Visual Studio Code;
    - **Settings Sync:** Permite guardar as configurações do Visual Studio Code para utilizar em qualquer máquina;
-   - **Visual Studio IntelliCode:** Recurso de autocompletar para várias linguagens.
+   - **Visual Studio IntelliCode:** Recurso de autocompletar para várias linguagens.</h6>
 
 **Node.js LTS**<br>
 Ddownload: https://nodejs.org/en/<br>
