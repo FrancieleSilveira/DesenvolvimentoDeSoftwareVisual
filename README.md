@@ -7,10 +7,10 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 ## Configuração de ambiente
 
-##* **SDK .NET 5.0**<br>
-Download: https://dotnet.microsoft.com/download<br>
+##SDK .NET 5.0
+* Download: https://dotnet.microsoft.com/download<br>
 
-Teste:
+* Teste:
 
     dotnet --version
 
