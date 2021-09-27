@@ -7,12 +7,12 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 ## Configuração de ambiente
 
-SDK .NET 5.0
-Download: https://dotnet.microsoft.com/download
-Teste: dotnet --version
+**SDK .NET 5.0**<br>
+Download: https://dotnet.microsoft.com/download<br>
+Teste: dotnet --version<br>
 
-Visual Studio Code
-Download: https://code.visualstudio.com/
+**Visual Studio Code**<br>
+Download: https://code.visualstudio.com/<br>
 
     **Extensões:**
 
@@ -33,18 +33,18 @@ Download: https://code.visualstudio.com/
     - **Settings Sync:** Permite guardar as configurações do Visual Studio Code para utilizar em qualquer máquina;
     - **Visual Studio IntelliCode:** Recurso de autocompletar para várias linguagens.
 
-Node.js LTS<br>
-Ddownload: https://nodejs.org/en/
-Teste: npm --version
+**Node.js LTS**<br>
+Ddownload: https://nodejs.org/en/<br>
+Teste: npm --version<br>
 
-Angular
-Instrução do download: https://angular.io/guide/setup-local
-Instalação: npm install -g @angular/cli
-Teste: ng --version
+**Angular**<br>
+Instrução do download: https://angular.io/guide/setup-local<br>
+Instalação: npm install -g @angular/cli<br>
+Teste: ng --version<br>
 
-Git Bash
-Download: https://git-scm.com/downloads
-Teste: git --version
+**Git Bash**<br>
+Download: https://git-scm.com/downloads<br>
+Teste: git --version<br>
 
 ## Criação do projeto
 
