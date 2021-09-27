@@ -77,17 +77,17 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 ## Criação do projeto
 
-<h3>Abrir um terminal (PowerShell, cmd, GitBash) na pasta onde será criada a pasta do projeto, executar o:</h3>
+* Abrir um terminal (PowerShell, cmd, GitBash) na pasta onde será criada a pasta do projeto, executar o comando:
 
-* `dotnet new console --name PrimeiroApp`
+        dotnet new console --name PrimeiroApp
 
      **Descrição:** Cria um projeto do tipo Console nomeando-o como PrimeiroApp.
 <br>
 
-<h3>Navegar atá a pasta criada e executar o comando para abrir o projeto criado com o VS Code:</h3>
+* Navegar atá a pasta criada e executar o comando para abrir o projeto criado com o VS Code:
 
-* `code .`
+        code .
+      
+* Para rodar o projeto:
 
-* `dotnet run`
-
-     **Descrição:** Roda o projeto.
+        dotnet run
