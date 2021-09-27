@@ -7,7 +7,7 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 ## Configuração de ambiente
 
-<h3>SDK .NET 5.0</h3><br>
+<h4>SDK .NET 5.0</h4><br>
 Download: https://dotnet.microsoft.com/download<br>
 Teste:
 
@@ -18,22 +18,22 @@ Teste:
 **Visual Studio Code**<br>
 Download: https://code.visualstudio.com/<br>
         Extensões:<br>
-    - **Auto Import:** Auxilia no importação de módulos externos;<br>
-    - **Auto-Save on Window Change:** salva os arquivos ao mudar de janela;<br>
-    - **Auto Rename Tag:** Permite renomear uma tag sem a necessidade de alterar o fechamento da tag;<br>
-    - **Bracket Pair Colorize 2:** Cria marcações coloridas na abertura e fechamento de tags, métodos e etc;<br>
-    - **C#**: Extensão que auxiliará no desenvolvimento de projetos em C#;<br>
-    - **Color Highlight:** Identifica e colore trechos de código onde cores são identificadas;<br>
-    - **Dracula Official:** Modifica o tema do ambiente de trabalho;<br>
-    - **EditorConfig for VS Code:** Auxilia na construção do arquivo .editorconfig;<br>
-    - **HTML CSS Support:** Dá suporte para a escrita de código HTML e CSS;<br>
-    - **Live Server:** Permite executar e alterar trechos de código sem a necessidade de recarregar o navegador;<br>
-    - **Material Icon Theme:** Altera os ícones de pastas e arquivos;<br>
-    - **Path Intelisense:** Ajuda encontrar caminhos, arquivos e pastas dentro da workspace;<br>
-    - **Prettier:** Organiza, formata e identa o código;<br>
-    - **Rest Client** - Permite executar requisições HTTP direto do Visual Studio Code;<br>
-    - **Settings Sync:** Permite guardar as configurações do Visual Studio Code para utilizar em qualquer máquina;<br>
-    - **Visual Studio IntelliCode:** Recurso de autocompletar para várias linguagens.<br>
+        - **Auto Import:** Auxilia no importação de módulos externos;<br>
+        - **Auto-Save on Window Change:** salva os arquivos ao mudar de janela;<br>
+        - **Auto Rename Tag:** Permite renomear uma tag sem a necessidade de alterar o fechamento da tag;<br>
+        - **Bracket Pair Colorize 2:** Cria marcações coloridas na abertura e fechamento de tags, métodos e etc;<br>
+        - **C#**: Extensão que auxiliará no desenvolvimento de projetos em C#;<br>
+        - **Color Highlight:** Identifica e colore trechos de código onde cores são identificadas;<br>
+        - **Dracula Official:** Modifica o tema do ambiente de trabalho;<br>
+        - **EditorConfig for VS Code:** Auxilia na construção do arquivo .editorconfig;<br>
+        - **HTML CSS Support:** Dá suporte para a escrita de código HTML e CSS;<br>
+        - **Live Server:** Permite executar e alterar trechos de código sem a necessidade de recarregar o navegador;<br>
+        - **Material Icon Theme:** Altera os ícones de pastas e arquivos;<br>
+        - **Path Intelisense:** Ajuda encontrar caminhos, arquivos e pastas dentro da workspace;<br>
+        - **Prettier:** Organiza, formata e identa o código;<br>
+        - **Rest Client** - Permite executar requisições HTTP direto do Visual Studio Code;<br>
+        - **Settings Sync:** Permite guardar as configurações do Visual Studio Code para utilizar em qualquer máquina;<br>
+        - **Visual Studio IntelliCode:** Recurso de autocompletar para várias linguagens.<br>
 
 
 <br>
