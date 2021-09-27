@@ -1,8 +1,8 @@
 # Desenvolvimento De Software Visual
 
-Todos os elementos abaixo irão descrever os passos para a criação e configuração do projeto da API (C#) e do FRONT (Angular).
+Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angular).
 
-## Autor
+### Autor
 [Franciele do Carmo Silveira](https://www.linkedin.com/in/cfrancielesilveira/)
 
 ## Configuração de ambiente
