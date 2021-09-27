@@ -11,8 +11,7 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 Download: https://dotnet.microsoft.com/download<br>
 Teste:
 
-
-    dotnet --version
+dotnet --version
 
 <br>
 
