@@ -9,7 +9,7 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 **SDK .NET 5.0**<br>
 Download: https://dotnet.microsoft.com/download<br>
-Teste:<br>
+Teste:
 
     dotnet --version
 
@@ -17,7 +17,8 @@ Teste:<br>
 
 **Visual Studio Code**<br>
 Download: https://code.visualstudio.com/<br>
-<h5>**Extensões:**<br>
+
+    <h5>**Extensões:**<br>
 - **Auto Import:** Auxilia no importação de módulos externos;<br>
 - **Auto-Save on Window Change:** salva os arquivos ao mudar de janela;<br>
 - **Auto Rename Tag:** Permite renomear uma tag sem a necessidade de alterar o fechamento da tag;<br>
@@ -41,18 +42,30 @@ Download: https://code.visualstudio.com/<br>
 Ddownload: https://nodejs.org/en/<br>
 Teste: 
 
-    `npm --version`
+    npm --version
     
 <br>
 
 **Angular**<br>
 Instrução do download: https://angular.io/guide/setup-local<br>
-Instalação: `npm install -g @angular/cli`<br>
-Teste: `ng --version`<br>
+Instalação:
+
+    npm install -g @angular/cli
+    
+<br>
+Teste: 
+
+    ng --version
+    
+<br>
 
 **Git Bash**<br>
 Download: https://git-scm.com/downloads<br>
-Teste: `git --version`<br>
+Teste:
+
+    git --version
+    
+<br>
 
 ## Criação do projeto
 
