@@ -82,13 +82,16 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
         dotnet new console --name PrimeiroApp
 
      **Descrição:** Cria um projeto do tipo Console nomeando-o como PrimeiroApp.
+     
 <br>
 
 * Navegar atá a pasta criada e executar o comando para abrir o projeto criado com o VS Code:
 
         code .
+        
 <br>      
 * Para rodar o projeto:
 
         dotnet run
+        
 <br>
