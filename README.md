@@ -12,11 +12,10 @@ Download: https://dotnet.microsoft.com/download<br>
 Teste:<br>
 
     dotnet --version
-    
+    <br>
 
 **Visual Studio Code**<br>
 Download: https://code.visualstudio.com/<br>
-
     **Extensões:**
 
     - **Auto Import:** Auxilia no importação de módulos externos;
