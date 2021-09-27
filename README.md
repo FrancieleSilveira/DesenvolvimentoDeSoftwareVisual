@@ -15,6 +15,7 @@ Teste:
     dotnet --version
 
 <br>
+
 * **Visual Studio Code**<br>
 Download: https://code.visualstudio.com/<br><br>
     **Extensões:**<br>
