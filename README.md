@@ -7,7 +7,7 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 ## Configuração de ambiente
 
-###SDK .NET 5.0###<br>
+<h3>SDK .NET 5.0###</h3><br>
 Download: https://dotnet.microsoft.com/download<br>
 Teste:
 
@@ -18,8 +18,7 @@ Teste:
 **Visual Studio Code**<br>
 Download: https://code.visualstudio.com/<br>
 
-<h5>
-Extensões:<br>
+    Extensões:<br>
     - **Auto Import:** Auxilia no importação de módulos externos;<br>
     - **Auto-Save on Window Change:** salva os arquivos ao mudar de janela;<br>
     - **Auto Rename Tag:** Permite renomear uma tag sem a necessidade de alterar o fechamento da tag;<br>
@@ -36,7 +35,6 @@ Extensões:<br>
     - **Rest Client** - Permite executar requisições HTTP direto do Visual Studio Code;<br>
     - **Settings Sync:** Permite guardar as configurações do Visual Studio Code para utilizar em qualquer máquina;<br>
     - **Visual Studio IntelliCode:** Recurso de autocompletar para várias linguagens.<br>
-</h5>
 
 
 <br>
