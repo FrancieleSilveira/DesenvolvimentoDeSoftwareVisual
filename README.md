@@ -2,7 +2,7 @@
 
 Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angular).
 
-### Autor
+**Autor**
 [Franciele do Carmo Silveira](https://www.linkedin.com/in/cfrancielesilveira/)
 
 ## Configuração de ambiente
@@ -33,7 +33,7 @@ Download: https://code.visualstudio.com/
     - **Settings Sync:** Permite guardar as configurações do Visual Studio Code para utilizar em qualquer máquina;
     - **Visual Studio IntelliCode:** Recurso de autocompletar para várias linguagens.
 
-Node.js LTS
+Node.js LTS\n
 Ddownload: https://nodejs.org/en/
 Teste: npm --version
 
