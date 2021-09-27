@@ -14,7 +14,7 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 * Teste:
 
 
-    dotnet --version
+        dotnet --version
 
 <br>
 
