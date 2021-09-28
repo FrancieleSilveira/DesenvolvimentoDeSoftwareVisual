@@ -149,8 +149,17 @@ O projeto terá essa estrutura:
 
 <img src="https://cdn.discordapp.com/attachments/848586232116412466/892494599610834985/unknown.png">
 
+<br>
+
 * Para rodar o projeto (e já abrir no navegador):
 
         ng serve --open
         
+<br>
+
+* Para que ao gerar um novo componente sejam criados 3 arquivos separados ao invés de apenas 1:
+    - no arquivo `angular.json` alterar linhas 10 e 11 para `false`:
+
+<img src="https://cdn.discordapp.com/attachments/848586232116412466/892496984886366249/unknown.png">
+
 <br>
