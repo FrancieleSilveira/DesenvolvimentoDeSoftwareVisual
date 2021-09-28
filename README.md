@@ -120,3 +120,9 @@ A seguinte linha referente a inclusão do package aparecerá no arquivo API.cspr
     - lista de propriedades que vão virar tabelas no banco de dados (no caso, Produto);
     
 <img src="https://cdn.discordapp.com/attachments/848586232116412466/892219023943692349/unknown.png">
+
+<br>
+
+* No arquivo Startup.cs, no método ConfigureServices adicionar a injeção (linhas 32, 33 e 34):
+
+<img src="https://cdn.discordapp.com/attachments/848586232116412466/892229157235335208/unknown.png">
