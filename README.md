@@ -77,7 +77,7 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
     
 <br>
 
-## Criação do projeto
+## Criação do projeto API (backend)
 
 * Abrir um terminal (PowerShell, cmd, GitBash) na pasta onde será criada a pasta do projeto, executar o comando:
 
@@ -126,3 +126,30 @@ A seguinte linha referente a inclusão do package aparecerá no arquivo API.cspr
 * No arquivo Startup.cs, no método ConfigureServices adicionar a injeção (linhas 32, 33 e 34):
 
 <img src="https://cdn.discordapp.com/attachments/848586232116412466/892229157235335208/unknown.png">
+
+<br>
+
+## Criação do projeto FRONT
+
+* Abrir um terminal (PowerShell, cmd, GitBash) na pasta onde será criada a pasta do projeto, executar o comando:
+
+        ng new FRONT --minimal
+
+     **Descrição:** Cria um projeto angular chamado FRONT com os padrões mínimos.
+     
+<br>
+
+* Navegar atá a pasta criada e executar o comando para abrir o projeto criado com o VS Code:
+
+        code .
+        
+<br>   
+
+O projeto terá essa estrutura:
+<img src="https://cdn.discordapp.com/attachments/848586232116412466/892494599610834985/unknown.png">
+
+* Para rodar o projeto (e já abrir no navegador):
+
+        ng serve --open
+        
+<br>
