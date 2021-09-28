@@ -81,9 +81,9 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 * Abrir um terminal (PowerShell, cmd, GitBash) na pasta onde será criada a pasta do projeto, executar o comando:
 
-        dotnet new console --name PrimeiroApp
+        dotnet new webapi --name PrimeiroApp
 
-     **Descrição:** Cria um projeto do tipo Console nomeando-o como PrimeiroApp.
+     **Descrição:** Cria um projeto do tipo Web API nomeando-o como PrimeiroApp.
      
 <br>
 
@@ -98,3 +98,13 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
         dotnet run
         
 <br>
+
+## Utilizando Entity Framework in Memory
+
+* Executar o comando:
+
+        dotnet add package Microsoft.EntityFrameworkCore.InMemory
+        
+A seguinte linha referente a inclusão do package aparecerá no arquivo API.csproj (linha 8):
+
+<img src="https://cdn.discordapp.com/attachments/848586232116412466/892206174076805180/unknown.png">
