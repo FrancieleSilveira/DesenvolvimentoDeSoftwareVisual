@@ -146,6 +146,7 @@ A seguinte linha referente a inclusão do package aparecerá no arquivo API.cspr
 <br>   
 
 O projeto terá essa estrutura:
+
 <img src="https://cdn.discordapp.com/attachments/848586232116412466/892494599610834985/unknown.png">
 
 * Para rodar o projeto (e já abrir no navegador):
