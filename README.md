@@ -167,3 +167,11 @@ O projeto terá essa estrutura:
 * Para gerar um service (forma abreviada):
 
         ng g s services/produto
+
+<br>
+
+* Para gerar uma interface (forma abreviada):
+
+        ng g i models/produto
+        
+<br>
