@@ -163,3 +163,7 @@ O projeto terá essa estrutura:
 <img src="https://cdn.discordapp.com/attachments/848586232116412466/892496984886366249/unknown.png">
 
 <br>
+
+* Para gerar um service (forma abreviada):
+
+        ng g s services/produto
