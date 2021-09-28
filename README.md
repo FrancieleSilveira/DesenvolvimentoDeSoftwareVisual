@@ -105,14 +105,16 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
         dotnet add package Microsoft.EntityFrameworkCore.InMemory
         
+<br>
 A seguinte linha referente a inclusão do package aparecerá no arquivo API.csproj (linha 8):
 
 <img src="https://cdn.discordapp.com/attachments/848586232116412466/892206174076805180/unknown.png">
 
+<br>
 * Criar uma pasta chamada Data e dentro dela uma classe chamada por convenção de DataContext.cs;
 * Essa classe herdará a classe DbContext;
 * Nessa classe definiremos:
     - o construtor: passando o parâmetro (DbContextOptions, do "tipo" da nossa classe, chamamos de options) para a classe pai DbContext;
-    - lista de propriedades que vão virar tabelas no banco de dados (no caso, Produtos);
+    - lista de propriedades que vão virar tabelas no banco de dados (no caso, Produto);
     
 <img src="https://cdn.discordapp.com/attachments/848586232116412466/892219023943692349/unknown.png">
