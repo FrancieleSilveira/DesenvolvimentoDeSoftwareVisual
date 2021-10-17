@@ -38,7 +38,7 @@ namespace API.Controllers
         public IActionResult GetById([FromRoute] int id)
         {
             Produto produto = _context.Produtos.Find(id);
-            if (produto != null) return NotFound();
+            if (produto == null) return NotFound();
             return Ok(produto);
         }
 
