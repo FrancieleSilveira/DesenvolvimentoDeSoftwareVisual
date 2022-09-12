@@ -45,7 +45,7 @@ Passos para a criação e configuração do projeto da API (C#) e do FRONT (Angu
 
 <h3>Node.js LTS</h3>
 
-* Ddownload: https://nodejs.org/en/
+* Download: https://nodejs.org/en/
 
 * Teste: 
 
